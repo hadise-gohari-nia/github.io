@@ -1,31 +1,30 @@
 
-### fatemeh doostani
-<a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/t3lc_d288033c-e875-4896-9c9c-2a0a7cdb3db2.jpg" border="0" alt="آپلود عکس" /></a>
+### hadise gohari nia
+<a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/2hbz_whatsapp_image_2020-12-31_at_10.59.19_am.jpeg" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
 ---
-+ name: fatemeh
-+ last name :doostani
-+ Date of birth : 1997/Des/23
++ name: hadise
++ last name : gohari nia
++ Date of birth : 1995/oct/12
 +  Computer engineering student
-+ location : Tehran , I.R.Iran
++ location : Tehran , varamin
 
 
 ### Skill Highlights
 
 ---
-+ accountant
++ photoshop
 + ICDL
 + java script
 
 ### Education
 
 ---
-+ Diploma : bagherololum
-_ 2015
+
 + Bachelor of science : computer Engineering
-_ 2018,payam Noor University of parand 
+_ 2015,payam Noor University of parand 
 
 ### Favorites
 
@@ -35,7 +34,7 @@ _ 2018,payam Noor University of parand
 
 
 
-### [contact with me](Lidadoostani@gmail.com)
+### [contact with me](hadisegoharinia@gmail.com)
 
 
 --- 
